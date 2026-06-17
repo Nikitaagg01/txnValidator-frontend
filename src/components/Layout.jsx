@@ -45,10 +45,10 @@ export default function Layout({ children }) {
         </nav>
 
         {/* Footer */}
-        <div className="px-5 py-4 border-t border-slate-800">
+        {/* <div className="px-5 py-4 border-t border-slate-800">
           <p className="text-[11px] text-slate-600">Implementation Internship</p>
-          <p className="text-[10px] text-slate-700 mt-0.5">© 2024 TxnValidator</p>
-        </div>
+          <p className="text-[10px] text-slate-700 mt-0.5">© 2026 TxnValidator</p>
+        </div> */}
       </aside>
 
       {/* Main */}
